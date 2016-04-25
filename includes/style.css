@@ -1,0 +1,26 @@
+body {
+
+	background-image: url("https://i.ytimg.com/vi/TInfxe7c7yA/maxresdefault.jpg");
+	}
+h1 { color: white;
+	 font : italic;
+	 font : bold;
+	 font-size: 50px;
+	}
+
+h2 {
+	color: white;
+	font : italic;
+	font : bold;
+	font-size: 35px;
+}
+p, li {
+	color: white;
+	font : italic;
+
+}
+
+p.color {
+	color: black;
+	font: italic;
+}
