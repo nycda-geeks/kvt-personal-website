@@ -1,22 +1,24 @@
 body {
 
-	background-image: url("https://i.ytimg.com/vi/TInfxe7c7yA/maxresdefault.jpg");
+	-image: url("https://i.ytimg.com/vi/TInfxe7c7yA/maxresdefault.jpg");
+	margin: 2px;
 	}
-h1 { color: white;
+h1 { color: black;
 	 font : italic;
 	 font : bold;
 	 font-size: 50px;
 	}
 
 h2 {
-	color: white;
+	color: black;
 	font : italic;
 	font : bold;
 	font-size: 35px;
 }
-p, li {
-	color: white;
+p  {
+	color: black;
 	font : italic;
+	font-size: 25px;
 
 }
 
@@ -24,3 +26,9 @@ p.color {
 	color: black;
 	font: italic;
 }
+li.bold {
+	color: black;
+	font: italic;
+	font: bold;
+	font-size: 40px;
+
