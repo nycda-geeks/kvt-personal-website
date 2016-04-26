@@ -1,16 +1,16 @@
 body {
 
-	-image: url("https://i.ytimg.com/vi/TInfxe7c7yA/maxresdefault.jpg");
+	background-image: url("http://www.hdwallpapera.com/wp-content/uploads/wallpaper/amazingpict/wallpapers-011//Basic%20Pattern%20Desktop%20Background.jpg");
 	margin: 2px;
 	}
-h1 { color: black;
+h1 { color: white;
 	 font : italic;
 	 font : bold;
 	 font-size: 50px;
 	}
 
 h2 {
-	color: black;
+	color: white;
 	font : italic;
 	font : bold;
 	font-size: 35px;
@@ -23,11 +23,11 @@ p  {
 }
 
 p.color {
-	color: black;
+	color: white;
 	font: italic;
 }
 li.bold {
-	color: black;
+	color: white;
 	font: italic;
 	font: bold;
 	font-size: 40px;
